@@ -1,0 +1,465 @@
+[
+  {
+    "id": "greeting-hi",
+    "title": "Greeting - Hi",
+    "question": "Hi",
+    "answer": "Hi! 👋 Welcome to Rentelo. How may I assist you today?",
+    "tags": ["greeting", "hi", "welcome"]
+  },
+  {
+    "id": "greeting-hello",
+    "title": "Greeting - Hello",
+    "question": "Hello",
+    "answer": "Hello! 😊 Looking for a 🛵 or 🚘 rental?",
+    "tags": ["greeting", "hello", "welcome"]
+  },
+  {
+    "id": "thanks-response",
+    "title": "Thank you Response",
+    "question": "Thank you",
+    "answer": "You’re most welcome! 🙌 Is there anything else I can help you with today?",
+    "tags": ["thanks", "gratitude", "response"]
+  },
+  {
+    "id": "thanks-happy",
+    "title": "Thank you Response 2",
+    "question": "Thanks",
+    "answer": "Happy to help! 🚘🛵 Thank you for choosing Rentelo.",
+    "tags": ["thanks", "gratitude"]
+  },
+  {
+    "id": "acknowledgement-ok",
+    "title": "Acknowledgement",
+    "question": "Okay / Ok",
+    "answer": "Perfect ✅ Please share your Booking ID or Mobile Number so we can assist further.",
+    "tags": ["acknowledgement", "ok", "confirmation"]
+  },
+  {
+    "id": "good-morning",
+    "title": "Good Morning",
+    "question": "Good morning",
+    "answer": "Good morning 🌼 — Looking for a two-wheeler 🛵 or four-wheeler 🚘?",
+    "tags": ["greeting", "morning"]
+  },
+  {
+    "id": "good-evening",
+    "title": "Good Evening",
+    "question": "Good evening",
+    "answer": "Evening vibes 🌙🚗 — Need help with booking or extending your ride?",
+    "tags": ["greeting", "evening"]
+  },
+  {
+    "id": "closing-message-1",
+    "title": "Closing Chat",
+    "question": "Close chat",
+    "answer": "I hope I was able to help and assist you well. 🙏 If you need further support, just reply here to re-open the chat.",
+    "tags": ["closing", "end", "support"]
+  },
+  {
+    "id": "closing-message-2",
+    "title": "Closing Chat 2",
+    "question": "Goodbye",
+    "answer": "Thank you for choosing Rentelo! 🛵🚗 📞 +91 9010100300 | +91 7353100300 🌐 https://www.rentelo.in – Team Rentelo",
+    "tags": ["closing", "goodbye", "rentelo"]
+  },
+  {
+    "id": "refund-policy",
+    "title": "No Questions Asked Refund Policy",
+    "question": "Do you offer a no questions asked refund? How does cancellation work?",
+    "answer": "Cancellation due to documents issue: If you are uncomfortable submitting original DL/Passport, you may opt to pay a security deposit (₹5,000 for bookings under 3 days; ₹10,000 for bookings above 3 days). Security deposit is refunded at drop; if delayed, processed within 24 hours.\n\nCancellation before pickup: If you cancel 3 hours or more before pickup time → 90% refund (10% deduction). Refunds are processed within 3–7 working days.\nCancellation within 0–3 hours of pickup → 0% refund.\nDrop/Cancel in-between rental duration → 0% refund.\n\nSpecial cases: Non-availability of vehicle → 100% refund. If you didn’t like the vehicle → 100% refund, provided you submit a photo via WhatsApp +91-9010100300 or email support@rentelo.in to help improve quality; if photo not submitted, 10% will be deducted and the rest refunded within 24–72 hours.\n\nNo Show (cancellation after pickup time) → No refund.",
+    "tags": ["refund", "cancellation", "policy", "no show", "documents", "security deposit"]
+  },
+  {
+    "id": "how-it-works",
+    "title": "How does Rentelo work?",
+    "question": "How to make a reservation on Rentelo?",
+    "answer": "1) Download the Rentelo app (App Store / Play Store) or visit https://www.rentelo.in\n2) Select area, date, and time; browse available bikes and pickup locations.\n3) Log in or sign up.\n4) Choose bike and pickup location.\n5) Complete payment to confirm the reservation. For help, contact support.",
+    "tags": ["booking", "how it works", "steps", "reservation"]
+  },
+  {
+    "id": "payment-options",
+    "title": "What payment options are available?",
+    "question": "How do I pay for booking?",
+    "answer": "Booking amount is paid online during reservation via supported payment methods: credit/debit cards or online payment services as available in the app/website.",
+    "tags": ["payment", "online", "methods"]
+  },
+  {
+    "id": "late-drop",
+    "title": "Late drop or delay",
+    "question": "What if I return the vehicle late?",
+    "answer": "There is a 1-hour grace period considering traffic. After 1 hour, a full extra day charge applies (as per vehicle). Different locations have different opening/closing times; vehicle must be dropped before closing. If not, drop the next day and pay one-day rental charges.",
+    "tags": ["late", "delay", "grace period", "charges"]
+  },
+  {
+    "id": "documents-required",
+    "title": "Documents required (KYC)",
+    "question": "What documents are required?",
+    "answer": "Upload KYC online: Driving License and Address Proof. KYC will be verified at location.\nFor Indian customers:\nOption A) Submit original DL or Passport at pickup; returned at drop.\nOption B) If not submitting documents, pay security deposit: under 2 days → ₹5,000; above 2 days → ₹10,000. Deposit refunded at drop or within 24 hours if delayed.\nIf unwilling to submit documents AND no deposit, you may cancel under the 'No Questions Asked' policy only if done 3+ hours before pickup; refund within 24–72 hours.\nFor international customers: valid home country DL + International Driving Permit, valid visa, and passport. Learner’s license is not accepted.",
+    "tags": ["documents", "kyc", "deposit", "dl", "passport", "international"]
+  },
+  {
+    "id": "who-can-use",
+    "title": "Who can use the vehicle?",
+    "question": "Eligibility and responsibilities for using the vehicle",
+    "answer": "Riders must be 18+ with a valid Driving License. Bookings are for personal use only; the user is responsible for safe usage, traffic law compliance, and returning the vehicle in the same condition. Vehicle availability is not guaranteed. Pick up and drop at the selected location unless home delivery is arranged. Always wear a helmet and comply with traffic rules.",
+    "tags": ["eligibility", "usage", "helmet", "responsibility"]
+  },
+  {
+    "id": "who-cannot-use",
+    "title": "How you cannot use the vehicle",
+    "question": "Prohibited usage",
+    "answer": "Personal use only—no commercial/delivery/last-mile services. No carrying weapons/sharp objects, illegal activities, more than 2 people, modifications, rallies/stunts, or driving under alcohol/drugs. Minors (<18) and learners are not allowed. If terms are violated and booking is canceled, no refund.",
+    "tags": ["prohibited", "rules", "no refund"]
+  },
+  {
+    "id": "door-delivery",
+    "title": "Doorstep delivery",
+    "question": "Do you offer home delivery?",
+    "answer": "Free doorstep delivery within 2 km (11am–8pm), subject to availability. Customer should be present at agreed time/location and should test ride & inspect the bike before accepting.",
+    "tags": ["delivery", "home delivery"]
+  },
+  {
+    "id": "damages-loss",
+    "title": "Damages / Dents / Scratches / Loss",
+    "question": "What if there is damage, accident, or theft?",
+    "answer": "Record a pickup video. Any damages while in possession are chargeable at showroom rates. Inform support immediately in case of accident.\nInsurance thresholds: Scooty > ₹20,000; Bike <200cc > ₹30,000; Bike >400cc > ₹50,000. User pays processing fees and per-day rental for repair duration. In theft cases, user pays vehicle cost. Towing and lost/damaged key (new lockset) are chargeable.",
+    "tags": ["damage", "accident", "insurance", "towing", "key"]
+  },
+  {
+    "id": "fuel",
+    "title": "Fuel policy",
+    "question": "Is fuel included?",
+    "answer": "Fuel is not included. Minimal fuel is provided to reach the nearest station. No refund for leftover fuel at drop.",
+    "tags": ["fuel"]
+  },
+  {
+    "id": "maintenance",
+    "title": "Maintenance",
+    "question": "Who handles maintenance?",
+    "answer": "Rentelo manages regular inspection, scheduled servicing (every ~3000 km), and repairs. For long-term bookings, visit service station at least once a month (recommended on drop date). Skipping service due to user negligence makes the user liable for repairs.",
+    "tags": ["maintenance", "service"]
+  },
+  {
+    "id": "extra-kms",
+    "title": "Extra KMs charges",
+    "question": "What if I exceed KM limit?",
+    "answer": "Each model has a KM limit. Extra KMs are charged as listed on website/app. Review limits and rates before renting.",
+    "tags": ["kms", "limit", "charges"]
+  },
+  {
+    "id": "over-speeding",
+    "title": "Over speeding",
+    "question": "Are there speeding penalties?",
+    "answer": "Each model has a speed limit. Exceeding it incurs charges as per website/app. After 3 consecutive violations, each further violation is charged ₹100.",
+    "tags": ["speed", "penalty"]
+  },
+  {
+    "id": "other-states",
+    "title": "Travel to other states",
+    "question": "Can I take the bike outside Karnataka?",
+    "answer": "No. Going outside Karnataka is strictly not allowed. Penalties range ₹2,500–₹15,000 depending on the state.",
+    "tags": ["travel", "state", "karnataka"]
+  },
+  {
+    "id": "renewal-penalty",
+    "title": "Renewal pending penalty",
+    "question": "Missed renewal / extension penalty",
+    "answer": "If you miss extending the ride on/before the drop date, a penalty of ₹500 applies for each miss.",
+    "tags": ["renewal", "penalty", "extension"]
+  },
+  {
+    "id": "helmets",
+    "title": "Helmets",
+    "question": "Are helmets included?",
+    "answer": "One helmet is complimentary. Additional helmets are chargeable per number of days. Damaged or lost helmets are chargeable.",
+    "tags": ["helmet"]
+  },
+  {
+    "id": "timings",
+    "title": "Timings (locations)",
+    "question": "What are your hub timings?",
+    "answer": "BTM 1st Stage (Near GR Residency): Mon–Sun 7am–11pm.\nHSR Layout (Inside BDA Complex): Mon–Fri 9am–9pm; Fri–Sun 7am–10:30pm.\nMarathahalli (Behind @ Home Centre): Mon–Fri 9am–10pm; Fri–Sun 7am–11pm.\nManayata Tech Park (Next Immaculate Conception Church): Mon–Sun 9am–9pm.",
+    "tags": ["timing", "hours", "locations"]
+  },
+  {
+    "id": "upload-kyc",
+    "title": "Upload KYC",
+    "question": "How to complete KYC? What documents are needed?",
+    "answer": "Go to Profile/Account Settings → KYC Verification in the app/website. Upload government-issued photo ID (Driver's License) and proof of address (Aadhaar, utility bill, rental agreement, or official mail). Your KYC data is kept confidential and not shared with third parties. For help: support@rentelo.in, +91-7353100300.",
+    "tags": ["kyc", "verification", "documents", "privacy"]
+  },
+  {
+    "id": "multiple-bookings",
+    "title": "Can I book more than one bike?",
+    "question": "Is it possible to rent multiple bikes at once?",
+    "answer": "Yes, you can book multiple bikes, subject to availability. Each booking requires a valid KYC and deposit. Group bookings can be arranged by contacting support.",
+    "tags": ["multiple", "group", "booking"]
+  },
+  {
+    "id": "extend-booking",
+    "title": "Extending booking",
+    "question": "Can I extend my bike booking?",
+    "answer": "Yes, bookings can be extended before the current drop date through the Rentelo app or by contacting support. Extensions are subject to availability.",
+    "tags": ["extend", "extension", "booking"]
+  },
+  {
+    "id": "renewal-reminder",
+    "title": "Renewal Reminder",
+    "question": "When is my renewal due?",
+    "answer": "Gentle Reminder ❗👋 Dear Customer, your vehicle drop-off is scheduled for today. ⏳ Need more time with your ride? Please extend your booking via the Rentelo App or by replying here. 🚫 Late Return Alert: Delays may attract a ₹500 penalty + 2x the rental amount.",
+    "tags": ["renewal", "reminder", "penalty", "extension"]
+  },
+  {
+    "id": "service-odo",
+    "title": "Service Reminder",
+    "question": "Do I need to share ODO reading?",
+    "answer": "Yes, as part of vehicle usage terms, you must share the current KM (ODO) reading when requested. 🚨 Ignoring this may cause suspension of future bookings. If the vehicle faces issues due to missed service, repair costs will be your responsibility.",
+    "tags": ["service", "odo", "maintenance", "km reading"]
+  },
+  {
+    "id": "technician-arrived",
+    "title": "Technician Support",
+    "question": "How do I know when technician has arrived?",
+    "answer": "Dear Customer, once our technician arrives at your location, you’ll get a confirmation message. ✅ Please check and let us know if you need any further assistance.",
+    "tags": ["technician", "support", "assistance"]
+  },
+  {
+    "id": "locations",
+    "title": "Store Locations",
+    "question": "Where are Rentelo hubs located?",
+    "answer": "Rentelo outlets are across Bangalore 🛵🚗\n📍 BTM 1st Stage: https://g.co/kgs/UdvHr6\n📍 HSR Layout: https://maps.app.goo.gl/nySKpRGM6zYRF3FB6\n📍 Marathahalli: https://g.co/kgs/99Rqrn\n📍 Electronic City: https://maps.app.goo.gl/gaqnR45L7ZBf1qEC6\n📍 Kengeri: https://g.co/kgs/5TgD878\n📍 Majestic: https://g.co/kgs/FP1PNXL\n\n📲 Download the Rentelo App – Book your ride in just a few taps!",
+    "tags": ["locations", "hubs", "outlets", "bangalore"]
+  },
+  {
+    "id": "manyata-location",
+    "title": "Manyata Tech Park Location",
+    "question": "Do you have a hub in Manyata Tech Park?",
+    "answer": "Yes ✅ Manyata Tech Park Hub Details:\n📍 Location: Manyata\n👤 Contact: Loknath\n📞 +91 99809 51724\n⏰ Timings: 9 AM – 9 PM\n🔗 Map: https://maps.app.goo.gl/HrP2wVsJptuF9DF26",
+    "tags": ["manyata", "location", "hub"]
+  },
+  {
+    "id": "payment-details",
+    "title": "Payment Details",
+    "question": "Can I pay via UPI or Wallets?",
+    "answer": "Yes 💳 Below are supported details:\n- Waseem Syed: +91 96631 33008 (GPay/Paytm/PhonePe)\n- Sameeya: UPI: 9160136577\n- Saheera Banu: +91 99020 37788 (GPay/Paytm/PhonePe)\n\nAlways confirm with official Rentelo support before transferring.",
+    "tags": ["payment", "upi", "wallets"]
+  },
+  {
+    "id": "thank-you-details",
+    "title": "Thank you for details",
+    "question": "What happens after I share booking details?",
+    "answer": "Thank you for sharing your details 🙏 Please wait while we fetch your booking information to assist you further.",
+    "tags": ["thank you", "booking", "details"]
+  },
+  {
+    "id": "refund-update",
+    "title": "Refund Status",
+    "question": "Where is my refund?",
+    "answer": "Your refund has been successfully initiated ✅ It will be credited to your source account within 4–5 working days. Thank you for your patience!",
+    "tags": ["refund", "update", "payment"]
+  },
+  {
+    "id": "extension-confirm",
+    "title": "Extension Payment Confirmation",
+    "question": "I have paid for an extension, is it confirmed?",
+    "answer": "✅ Yes! Your extension payment has been received and confirmed. Your booking has been successfully extended. 🚗🛵 Is there anything else I can help you with today?",
+    "tags": ["extension", "payment", "confirmation"]
+  },
+  {
+    "id": "pickup-location",
+    "title": "Pickup Location",
+    "question": "From where do I pick up the rental bike?",
+    "answer": "You can pick up the bike on the day of your reservation from your selected location. The address will be mentioned in the confirmation email. You can also view all Rentelo bike rental locations at https://www.rentelo.in.",
+    "tags": ["pickup", "location", "address"]
+  },
+  {
+    "id": "documents-upload",
+    "title": "Documents to Upload",
+    "question": "What documents need to be uploaded & submitted?",
+    "answer": "For Indian Customers:\n- Driving License: Original Indian DL (Learner license not accepted)\n- Aadhar Card: Original Aadhar (if registered mobile number does not match, upload PAN or Passport)\n\nFor International Customers:\n- Valid home country DL + International Driving Permit\n- Valid visa and passport\n\nCarry originals for verification at pickup.",
+    "tags": ["documents", "upload", "indian", "international"]
+  },
+  {
+    "id": "original-documents",
+    "title": "Submitting Originals",
+    "question": "Do I need to submit original documents?",
+    "answer": "Yes. All customers must submit the original Driving License or Passport at pickup, returned at drop. PAN may be requested additionally. If required documents are not submitted, booking may be cancelled. Submitting originals is mandatory.",
+    "tags": ["documents", "originals", "mandatory"]
+  },
+  {
+    "id": "no-dl",
+    "title": "No Driving License",
+    "question": "What if I don’t have the original driving license?",
+    "answer": "If you don’t have your original DL, you can submit your ORIGINAL Passport instead.\n\nIf unwilling to submit either DL or Passport, you may cancel your booking. 50% will be deducted and the rest refunded within 72 hours.",
+    "tags": ["license", "passport", "cancel"]
+  },
+  {
+    "id": "confirmation",
+    "title": "Booking Confirmation",
+    "question": "When does my order get confirmed?",
+    "answer": "Your booking is confirmed once payment is received. You will get an email with pickup address and contact details of the location executive.",
+    "tags": ["confirmation", "booking", "payment"]
+  },
+  {
+    "id": "flat-tyre",
+    "title": "Flat Tyre During Ride",
+    "question": "What do I do in case of a flat tyre?",
+    "answer": "You will need to fix the puncture or replace the tube at your own cost. Such repairs are not covered under Rentelo maintenance policy.",
+    "tags": ["flat tyre", "puncture", "repair"]
+  },
+  {
+    "id": "different-drop",
+    "title": "Different Drop Location",
+    "question": "Can I pick and drop the vehicle at different locations?",
+    "answer": "No. Vehicles must be returned to the same location from where they were picked up.",
+    "tags": ["pickup", "drop", "location"]
+  },
+  {
+    "id": "greeting-bye",
+    "title": "Greeting - Bye",
+    "question": "Bye",
+    "answer": "Goodbye! 👋 Wishing you safe and happy rides with Rentelo. 🚘🛵",
+    "tags": ["greeting", "bye", "closing"]
+  },
+  {
+    "id": "thank-you-simple",
+    "title": "Thank you Simple",
+    "question": "Thanks a lot",
+    "answer": "Always a pleasure to help! 💯🚗 Have a great day ahead.",
+    "tags": ["thanks", "gratitude"]
+  },
+  {
+    "id": "usage-restrictions",
+    "title": "Vehicle Usage Restrictions",
+    "question": "What restrictions apply on Rentelo vehicles?",
+    "answer": "You cannot:\n- Use the vehicle for commercial services, delivery, or rallies.\n- Carry sharp objects, weapons, or engage in illegal activity.\n- Drive under alcohol or drugs.\n- Perform stunts or modifications.\n- Rent if you are under 18 or have a learner’s license.\nViolation leads to cancellation with no refund.",
+    "tags": ["restrictions", "illegal", "rules", "usage"]
+  },
+  {
+    "id": "fuel-leftover",
+    "title": "Leftover Fuel",
+    "question": "What happens if there is leftover fuel when I return the vehicle?",
+    "answer": "No refund is provided for leftover fuel at drop. Please plan your refueling accordingly.",
+    "tags": ["fuel", "refund"]
+  },
+  {
+    "id": "vehicle-service-reminder",
+    "title": "Monthly Vehicle Service",
+    "question": "Do I need to bring the vehicle for service during long bookings?",
+    "answer": "Yes. For long-term bookings, customers must visit a Rentelo service station at least once a month. Skipping service may make you liable for repair costs.",
+    "tags": ["service", "maintenance", "long-term"]
+  },
+  {
+    "id": "cancel-before-3hrs",
+    "title": "Cancellation before 3 hours",
+    "question": "What happens if I cancel before 3 hours of pickup?",
+    "tags": ["refund", "cancellation", "before-3hrs"],
+    "answer": "If you cancel **3 hours or more before pickup**, you will receive a **90% refund** (10% deduction). Refunds are processed within 3–7 working days."
+  },
+  {
+    "id": "cancel-within-3hrs",
+    "title": "Cancellation within 0–3 hours",
+    "question": "What happens if I cancel within 3 hours of pickup?",
+    "tags": ["refund", "cancellation", "within-3hrs"],
+    "answer": "If you cancel **0–3 hours before pickup**, you are not eligible for a refund."
+  },
+  {
+    "id": "cancel-during-rental",
+    "title": "Cancellation after pickup",
+    "question": "Can I cancel my booking after pickup?",
+    "tags": ["refund", "cancellation", "after-pickup", "no-show"],
+    "answer": "Once the booking has started (after pickup), cancellation is not allowed and no refund will be issued."
+  },
+  {
+    "id": "refund-vehicle-not-available",
+    "title": "Refund if vehicle unavailable",
+    "question": "What if the vehicle I booked is not available?",
+    "tags": ["refund", "cancellation", "unavailable", "vehicle"],
+    "answer": "If Rentelo cancels the booking due to non-availability of the vehicle, you will receive a **100% refund** of the amount paid."
+  },
+  {
+    "id": "refund-didnt-like",
+    "title": "Refund if I didn’t like the vehicle",
+    "question": "Can I get a refund if I don’t like the vehicle?",
+    "tags": ["refund", "cancellation", "didnt-like"],
+    "answer": "Yes. If you didn’t like the vehicle, you can get a **100% refund** provided you submit a photo via WhatsApp +91-9010100300 or email support@rentelo.in. If no photo is submitted, 10% will be deducted and the rest refunded within 24–72 hours."
+  },
+  {
+    "id": "refund-security-deposit",
+    "title": "Refund of security deposit",
+    "question": "When will I get back my security deposit?",
+    "tags": ["refund", "security", "deposit"],
+    "answer": "Security deposits (₹5,000 for bookings under 3 days, ₹10,000 for bookings above 3 days) are refunded in full at the time of drop. If delayed, refunds are processed within 24 hours."
+  },
+  {
+    "id": "refund-timeline",
+    "title": "Refund processing time",
+    "question": "How long does it take to get my refund?",
+    "tags": ["refund", "processing", "timeline"],
+    "answer": "Refunds are processed within **3–7 working days** after approval. Security deposit refunds are usually processed within **24 hours** if not settled at drop."
+  },
+  {
+    "id": "payment-failed-instructions",
+    "title": "Payment Failed Instructions",
+    "question": "What should I do if my payment failed and booking was not created?",
+    "tags": ["payment", "failed", "booking", "instructions"],
+    "answer": "If your payment fails and booking is not created, please **take a screenshot of your payment or transaction** and share it via **WhatsApp** to +91 9010100300 or email to support@rentelo.in. Our team will verify the payment and provide confirmation."
+  },
+  {
+    "id": "payment-confirmation-process",
+    "title": "Payment Confirmation Process",
+    "question": "How will I know if my failed payment is confirmed?",
+    "tags": ["payment", "confirmation", "failed", "verification"],
+    "answer": "Once your payment screenshot or transaction proof is received, Rentelo support will verify it. You will receive a confirmation message. After confirmation, you can proceed to the selected location to receive your vehicle."
+  },
+  {
+    "id": "booking-after-payment-failure",
+    "title": "Booking Creation After Failed Payment",
+    "question": "Will my booking be created if payment failed?",
+    "tags": ["booking", "payment", "failed", "creation"],
+    "answer": "After verifying your payment screenshot or proof, the Rentelo location executive will **create your booking manually** and provide the vehicle according to your requested timings."
+  },
+  {
+    "id": "vehicle-delivery-after-payment-failure",
+    "title": "Vehicle Delivery After Payment Failure",
+    "question": "When can I get my vehicle after failed payment?",
+    "tags": ["vehicle", "delivery", "payment", "failed"],
+    "answer": "Once your payment is confirmed and booking is created manually, visit the selected location. The location executive will hand over the vehicle as per your scheduled timing."
+  },
+  {
+    "id": "payment-issue-support",
+    "title": "Support for Payment Issues",
+    "question": "Who can I contact for failed payment or booking issues?",
+    "tags": ["support", "payment", "failed", "booking"],
+    "answer": "For any payment or booking issues, send **payment/transaction screenshot** via WhatsApp +91 9010100300 or email support@rentelo.in. The support team will confirm your payment and assist with booking creation."
+  },
+  {
+    "id": "booking-id-not-generated",
+    "title": "Booking ID Not Generated",
+    "question": "My payment went through but I did not receive a booking ID. What should I do?",
+    "tags": ["booking", "payment", "issue", "id"],
+    "answer": "If your payment is successful but the booking ID is not generated, **take a screenshot of your payment or transaction** and share it via **WhatsApp** to +91 9010100300 or email support@rentelo.in. Our team will verify and generate your booking ID manually."
+  },
+ 
+    {
+    "id": "vehicle-access-after-issue",
+    "title": "Access Vehicle After Booking Issue",
+    "question": "Can I get the vehicle even if my booking ID was not generated?",
+    "tags": ["vehicle", "pickup", "booking", "issue"],
+    "answer": "Yes. After verification of your payment and manual creation of the booking, the location executive will hand over the vehicle to you as per your reserved timings."
+  },
+  {
+    "id": "support-for-booking-id-issue",
+    "title": "Support for Booking ID Issues",
+    "question": "Who do I contact if my payment is done but no booking ID was generated?",
+    "tags": ["support", "booking", "payment", "issue"],
+    "answer": "Please send your payment screenshot or transaction proof via **WhatsApp** +91 9010100300 or email support@rentelo.in. Rentelo support will verify your payment and issue a booking ID immediately."
+  },
+  {
+    "id": "refund-in-case-of-duplicate-payment",
+    "title": "Duplicate Payment Issue",
+    "question": "I made payment twice but no booking ID generated. What happens?",
+    "tags": ["payment", "duplicate", "booking", "refund"],
+    "answer": "If a duplicate payment is detected, send screenshots of both transactions to WhatsApp +91 9010100300 or email support@rentelo.in. Rentelo support will verify the payments, create your booking, and refund any extra payment if applicable."
+  }
+]
